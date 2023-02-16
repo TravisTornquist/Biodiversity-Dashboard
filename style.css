@@ -1,0 +1,12 @@
+  body {
+    background-color: gainsboro;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .jumbotron {
+    background-image: url("https://assets.technologynetworks.com/production/dynamic/images/content/344043/top-5-non-covid-19-stories-of-2020-from-microbiology-344043-640x360.jpg");
+    background-size: auto;
+    background-position: center;
+    text-align: center;
+    color: whitesmoke;
+  }
